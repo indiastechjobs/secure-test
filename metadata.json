@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chatbot",
+  "description": "A refined, high-fidelity conversational assistant using the Google Gemini 3.5 Flash model with session management and persona customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
