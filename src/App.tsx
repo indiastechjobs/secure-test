@@ -353,7 +353,7 @@ export default function App() {
               <Sparkles className="w-5 h-5" />
             </span>
             <div>
-              <h1 className="font-semibold text-sm leading-tight">Gemini Chatbot TEST 4</h1>
+              <h1 className="font-semibold text-sm leading-tight">Gemini Chatbot TEST 5</h1>
               <span className="text-[11px] text-zinc-400 font-medium tracking-wide uppercase">
                 v3.5 Flash Model
               </span>
